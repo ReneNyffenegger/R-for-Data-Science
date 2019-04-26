@@ -13,3 +13,4 @@ select(flights, day:year, ends_with('delay'))
 #  - contains
 #  - matches                      (for regular expressions)
 #  - num_range('x,' 1:3)          (matches  x1, x2 and x3)
+#  - everything
