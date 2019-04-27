@@ -1,3 +1,7 @@
+#
+#  Examine the distribution of a categorical variable
+#  with a bar chart.
+#
 X11()
 library(ggplot2)
 
